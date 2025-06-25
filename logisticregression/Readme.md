@@ -106,7 +106,7 @@ Confusion Matrix
 
        Confusion Matrix Visualization
 
-       ![Confusion Matrix](confusion_matrix.png)
+       ![Confusion Matrix](./confusion_matrix.png)
 
 Sigmoid Function Formula:
 
@@ -127,4 +127,4 @@ What happens after?
 
 Sigmoid Function picture 
 
-    ![Sigmoid Function](sigmoid_function.png)
+    ![Sigmoid Function](./sigmoid_function.png)
