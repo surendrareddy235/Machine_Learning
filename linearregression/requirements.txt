@@ -1,0 +1,5 @@
+pandas
+ccxt
+matplotlib
+numpy
+sklearn
