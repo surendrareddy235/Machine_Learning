@@ -127,4 +127,4 @@ What happens after?
 
 Sigmoid Function picture 
 
-    ![Sigmoid Function](sigmoid_function.png)
+   ![](./sigmoid_function.png)
